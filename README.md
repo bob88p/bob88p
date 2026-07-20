@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN](https://www.linkedin.com/in/bola-fady-4b8a30338)">
+<a href="https://www.linkedin.com/in/bola-fady-4b8a30338">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
